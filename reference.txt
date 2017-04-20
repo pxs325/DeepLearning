@@ -1,1 +1,4 @@
-
+http://cs224d.stanford.edu/
+http://web.stanford.edu/class/cs224n/
+http://cs231n.github.io/
+http://cs231n.stanford.edu/
